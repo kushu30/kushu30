@@ -6,9 +6,10 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 
 ---
 
-## Featured Projects
+## <img src="https://img.shields.io/badge/Featured%20Projects-2ECC71?style=flat&logoColor=white" alt="Projects"/>
 
-### 🧠 **AI & Machine Learning**
+### <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6B6B?style=flat&logoColor=white" alt="AI & ML"/>
+
 - **[SHAP Analysis on Tabular Data](https://colab.research.google.com/drive/14Ff9rwQRQWyw5pJwwXm38-qs3VUHjDOt?usp=sharing)** · *Explainable AI*  
   Loan default prediction using LIME and SHAP with XGBoost interpretability
 
@@ -18,7 +19,8 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 - **[VoiceBoss](https://github.com/kushu30/voiceboss)** · *AI Assistant*  
   Gemini-powered voice assistant with speech recognition and TTS
 
-### 🚀 **Full-Stack Applications**
+### <img src="https://img.shields.io/badge/Full--Stack%20Applications-4ECDC4?style=flat&logoColor=white" alt="Full-Stack"/>
+
 - **[FindMyRoomie](https://srmfindmyroomie.vercel.app)** · *Social Platform*  
   Privacy-first roommate matching platform (700+ active users) • React, Firestore
 
@@ -31,7 +33,8 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 - **[SuperAbled](https://superabled.vercel.app/)** · *Accessibility Tool*  
   Speech-to-image generation for users with disabilities
 
-### 📊 **Data Analytics**
+### <img src="https://img.shields.io/badge/Data%20Analytics-45B7D1?style=flat&logoColor=white" alt="Data Analytics"/>
+
 - **[E-commerce Revenue Analysis](https://ecom-kushu.netlify.app/)** · *Statistical Modeling*  
   User behavior analysis and revenue prediction using R
 
@@ -40,7 +43,7 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 
 ---
 
-## Tech Arsenal
+## <img src="https://img.shields.io/badge/Tech%20Arsenal-9B59B6?style=flat&logoColor=white" alt="Tech Arsenal"/>
 
 ```
 Languages    Python • JavaScript • C++ • R • SQL
@@ -51,15 +54,15 @@ Tools        Git • Linux • Docker
 
 ---
 
-## Recognition & Achievements
+## <img src="https://img.shields.io/badge/Recognition%20%26%20Achievements-E67E22?style=flat&logoColor=white" alt="Recognition"/>
 
-`2025` **Selected Participant** · Amazon ML Summer School
-`2023` **National Rank 8** · Indian FinTech Olympiad *(Top 50 of 60,000)*  
-`2024` **Asia Rank 21** · FinTech Globals Competition 
+`2025` **Selected Participant** · Amazon ML Summer School  
+`2024` **Asia Rank 21** · FinTech Globals Competition  
+`2023` **National Rank 8** · Indian FinTech Olympiad *(Top 50 of 60,000)*
 
 ---
 
-## Connect & Collaborate
+## <img src="https://img.shields.io/badge/Connect%20%26%20Collaborate-8E44AD?style=flat&logoColor=white" alt="Connect"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushu30)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itskushu30)
