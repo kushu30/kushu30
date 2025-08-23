@@ -6,10 +6,9 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 
 ---
 
-## <img src="https://img.shields.io/badge/Featured%20Projects-2ECC71?style=flat&logoColor=white" alt="Projects"/>
+## Featured Projects
 
-### <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-FF6B6B?style=flat&logoColor=white" alt="AI & ML"/>
-
+### **AI & Machine Learning**
 - **[SHAP Analysis on Tabular Data](https://colab.research.google.com/drive/14Ff9rwQRQWyw5pJwwXm38-qs3VUHjDOt?usp=sharing)** · *Explainable AI*  
   Loan default prediction using LIME and SHAP with XGBoost interpretability
 
@@ -19,8 +18,7 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 - **[VoiceBoss](https://github.com/kushu30/voiceboss)** · *AI Assistant*  
   Gemini-powered voice assistant with speech recognition and TTS
 
-### <img src="https://img.shields.io/badge/Full--Stack%20Applications-4ECDC4?style=flat&logoColor=white" alt="Full-Stack"/>
-
+### **Full-Stack Applications**
 - **[FindMyRoomie](https://srmfindmyroomie.vercel.app)** · *Social Platform*  
   Privacy-first roommate matching platform (700+ active users) • React, Firestore
 
@@ -33,8 +31,7 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 - **[SuperAbled](https://superabled.vercel.app/)** · *Accessibility Tool*  
   Speech-to-image generation for users with disabilities
 
-### <img src="https://img.shields.io/badge/Data%20Analytics-45B7D1?style=flat&logoColor=white" alt="Data Analytics"/>
-
+### **Data Analytics**
 - **[E-commerce Revenue Analysis](https://ecom-kushu.netlify.app/)** · *Statistical Modeling*  
   User behavior analysis and revenue prediction using R
 
@@ -43,14 +40,27 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 
 ---
 
-## <img src="https://img.shields.io/badge/Tech%20Arsenal-9B59B6?style=flat&logoColor=white" alt="Tech Arsenal"/>
+## Tech Arsenal
 
-```
-Languages    Python • JavaScript • C++ • R • SQL
-Frameworks   React • Node.js • Streamlit • R Shiny
-Data Stack   MongoDB • MySQL • Firestore • Three.js
-Tools        Git • Linux • Docker
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
