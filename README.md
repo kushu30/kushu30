@@ -53,10 +53,9 @@ Tools        Git • Linux • Docker
 
 ## Recognition & Achievements
 
-`2025` **Selected Participant** · Amazon ML Summer School
-`2024` **Asia Rank 21** · FinTech Globals Competition  
-`2023` **National Rank 8** · Indian FinTech Olympiad  
-
+2025 Selected Participant · Amazon ML Summer School
+2024 Asia Rank 21 · FinTech Globals Competition
+2023 National Rank 8 · Indian FinTech Olympiad
 ---
 
 ## Connect & Collaborate
