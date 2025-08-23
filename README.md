@@ -8,7 +8,7 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 
 ## Featured Projects
 
-### 🧠 **AI & Machine Learning**
+### **AI & Machine Learning**
 - **[SHAP Analysis on Tabular Data](https://colab.research.google.com/drive/14Ff9rwQRQWyw5pJwwXm38-qs3VUHjDOt?usp=sharing)** · *Explainable AI*  
   Loan default prediction using LIME and SHAP with XGBoost interpretability
 
@@ -18,7 +18,7 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 - **[VoiceBoss](https://github.com/kushu30/voiceboss)** · *AI Assistant*  
   Gemini-powered voice assistant with speech recognition and TTS
 
-### 🚀 **Full-Stack Applications**
+### **Full-Stack Applications**
 - **[FindMyRoomie](https://srmfindmyroomie.vercel.app)** · *Social Platform*  
   Privacy-first roommate matching platform (700+ active users) • React, Firestore
 
@@ -31,7 +31,7 @@ Building intelligent solutions at the intersection of technology and finance. Ex
 - **[SuperAbled](https://superabled.vercel.app/)** · *Accessibility Tool*  
   Speech-to-image generation for users with disabilities
 
-### 📊 **Data Analytics**
+### **Data Analytics**
 - **[E-commerce Revenue Analysis](https://ecom-kushu.netlify.app/)** · *Statistical Modeling*  
   User behavior analysis and revenue prediction using R
 
@@ -53,9 +53,9 @@ Tools        Git • Linux • Docker
 
 ## Recognition & Achievements
 
+`2025` **Selected Participant** · Amazon ML Summer School
 `2024` **Asia Rank 21** · FinTech Globals Competition  
-`2023` **National Rank 8** · Indian FinTech Olympiad *(Top 50 of 60,000)*  
-`2024` **Selected Participant** · Amazon ML Summer School
+`2023` **National Rank 8** · Indian FinTech Olympiad  
 
 ---
 
