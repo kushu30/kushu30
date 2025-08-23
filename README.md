@@ -19,6 +19,10 @@ Building intelligent solutions at the intersection of technology and finance. Ex
   Gemini-powered voice assistant with speech recognition and TTS
 
 ### **Full-Stack Applications**
+
+- **[Kuiz](https://kuizit.netlify.app)** · *Quizzing Platform*  
+  Create and share quizzes instantly. Join with a code, attempt, and view real-time results. • React, Supabase
+  
 - **[FindMyRoomie](https://srmfindmyroomie.vercel.app)** · *Social Platform*  
   Privacy-first roommate matching platform (700+ active users) • React, Firestore
 
